@@ -4,6 +4,3 @@ def demofunc(num):
   else:
     print('Hello world 0')
   return num
-
-#if __name__ == '__main__':
-#  demofunc(1)
